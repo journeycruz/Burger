@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/journeycruz/Handlebars_Burger_Logger.git"
   },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "author": "Journey Cruz",
   "license": "MIT",
   "bugs": {
