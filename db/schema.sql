@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS eatdaburger_db;
-CREATE DATABASE eatdaburger_db;
-USE eatdaburger_db;
+DROP DATABASE IF EXISTS burgers_db;
+CREATE DATABASE burgers_db;
+USE burgers_db;
 
 CREATE TABLE burgers
 (
