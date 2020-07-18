@@ -1,0 +1,24 @@
+{
+  "name": "handlebars_burger_logger",
+  "version": "1.0.0",
+  "description": "This is a restaurant app that lets users input the names of burgers they'd like to eat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/journeycruz/Handlebars_Burger_Logger.git"
+  },
+  "author": "Journey Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/journeycruz/Handlebars_Burger_Logger/issues"
+  },
+  "homepage": "https://github.com/journeycruz/Handlebars_Burger_Logger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
