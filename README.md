@@ -16,12 +16,12 @@ https://burger-app2020.herokuapp.com/
             
 This application requires the following dependencies:
 
-# Body Parser 
-# Express.js 
-# Express Handlebars
-# MySQL
-# Node.js
-# Path
+### Body Parser 
+### Express.js 
+### Express Handlebars
+### MySQL
+### Node.js
+### Path
 
             
 ## Usage 
