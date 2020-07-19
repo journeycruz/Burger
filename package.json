@@ -2,7 +2,7 @@
   "name": "handlebars_burger_logger",
   "version": "1.0.0",
   "description": "This is a restaurant app that lets users input the names of burgers they'd like to eat.",
-  "main": "index.js",
+  "main": "burger.js",
   "scripts": {
     "test": "npm test"
   },
@@ -11,7 +11,6 @@
     "url": "git+https://github.com/journeycruz/Handlebars_Burger_Logger.git"
   },
   "keywords": [
-    "example",
     "heroku"
   ],
   "author": "Journey Cruz",
